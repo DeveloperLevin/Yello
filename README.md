@@ -1,4 +1,8 @@
-# ![YELLO Logo](images/logo-light.png) **YELLO** 🚍
+<p align="center">
+  <img src="images/logo-light.png" alt="YELLO Logo" width="150" />
+</p> 
+
+**YELLO** 🚍
 
 **YELLO** is a real-time bus-tracking app designed specifically for students of St. Joseph Engineering College (SJEC). This app helps students track their college buses in real time, ensuring they never miss their ride. With YELLO, students can easily find out the exact location of their bus and plan their commute accordingly.
 
