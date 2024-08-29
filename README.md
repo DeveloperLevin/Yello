@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo-light.png" alt="YELLO Logo" width="90%" height="600px" />
+  <img src="images/logo-light.png" alt="YELLO Logo" width="90%" height="400px" />
 </p> 
 
 # **YELLO** 🚍
