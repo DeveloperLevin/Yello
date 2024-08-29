@@ -11,13 +11,6 @@
 - **User-Friendly Interface**: Designed with simplicity and ease of use in mind, YELLO provides a seamless user experience.
 - **Bus Notifications**: Get notified when your bus is approaching, so you're always on time.
 
-## **Screenshots** 📸
-
-<!-- Add screenshots of your app here -->
-
-![YELLO Home Screen](images/screenshot1.png)
-![Real-Time Bus Tracking](images/screenshot2.png)
-
 ## **Getting Started** 🚀
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
